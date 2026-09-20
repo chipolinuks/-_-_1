@@ -13,6 +13,7 @@ export default function App() {
  <StatCard label="Всего задач" value="12" note="+3 за эту неделю" />
  <StatCard label="В работе" value="4" note="Нужны сегодня" />
  <StatCard label="Готово" value="6" note="Хороший темп" />
+ <StatCard label="Просрочено" value="2" note="С кем не бывает" />
  <StatCard label="Проектов" value="3" note="Учёба и портфолио" />
  </section>
  <section className="panel">

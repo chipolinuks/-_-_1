@@ -39,4 +39,12 @@ export const tasks = [
  priority: 'Высокий',
  dueDate: '25 сентября',
  },
+ {
+ id: 6,
+ title: 'Наслаждаться осенним вайбом',
+ project: 'Досуг',
+ status: 'В работе',
+ priority: 'Средний',
+ dueDate: '26 сентября',
+ },
 ];
