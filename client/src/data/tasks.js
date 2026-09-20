@@ -47,4 +47,28 @@ export const tasks = [
  priority: 'Средний',
  dueDate: '26 сентября',
  },
+ {
+ id: 7,
+ title: 'Пересмотреть Сумерки',
+ project: 'Досуг',
+ status: 'Нужно сделать',
+ priority: 'Высокий',
+ dueDate: '27 сентября',
+ },
+ {
+ id: 8,
+ title: 'Дорешать матан',
+ project: 'Обучение',
+ status: 'Нужно сделать',
+ priority: 'Средний',
+ dueDate: '28 сентября',
+ },
+ {
+ id: 9,
+ title: 'Не заболеть за осень',
+ project: 'Здоровье',
+ status: 'В работе',
+ priority: 'Высокий',
+ dueDate: '30 ноября',
+ },
 ];
